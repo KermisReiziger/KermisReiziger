@@ -1,6 +1,3 @@
-KermisReiziger's README.md
-——————————————————————————————————————————————
-
 🎡 × Github account of KermisReiziger
 📝 × Java, Javascript and Python developer.
 
