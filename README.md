@@ -1,11 +1,12 @@
-————————————————————————————————————————————————————
+# 🎡 | KermisReiziger [NL]
 
-🎡 × Github account of KermisReiziger
+Hey! Ik ben Keano, oftewel KermisReiziger.
+Je kan me misschien kennen van MinecraftDevelopent!
 
-📝 × Currently developing in Java and Javascript.
+### 🌳 | Projecten
+- MinecraftDevelopment - https://minecraftdevelopment.nl/discord
+- PrisonRP - Dit was ooit een grote Minecraft Server van mij.
 
-————————————————————————————————————————————————————
-
-💬 × Discord: 𝓚𝒆𝓻𝓶𝓲𝓼ℛ𝒆𝓲𝔃𝓲𝓰𝒆𝓻#0001
-
-————————————————————————————————————————————————————
+### 📱 | Development
+- Java
+- JavaScript
